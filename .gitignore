@@ -1,0 +1,19 @@
+# Logs
+*.log
+
+# Node modules (if any)
+node_modules/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
