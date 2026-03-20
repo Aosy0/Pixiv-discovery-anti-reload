@@ -40,7 +40,7 @@ const CONFIG = Object.freeze({
 
   // タイミング設定
   RESTORE_WINDOW: 15000,           // 戻り直後の復元猶予（ms）
-  CACHE_DURATION: 10 * 60 * 1000,  // APIキャッシュ有効期限（10分）
+  CACHE_DURATION: 30 * 60 * 1000,  // APIキャッシュ有効期限（10分）
   SCROLL_RESTORE_MAX_WAIT: 12000,  // スクロール復元の最大待機時間（ms）
   SCROLL_RESTORE_TOLERANCE: 200,   // スクロール位置の許容誤差（px）
 
